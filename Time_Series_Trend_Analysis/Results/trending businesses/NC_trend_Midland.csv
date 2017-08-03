@@ -1,0 +1,6 @@
+,Name,Type,FrequentWord
+0,The Sundae Shop,Food services,"[('great', 9), ('cream', 9), ('food', 8), ('hot', 7), ('ice', 7), ('fries', 7), ('burgers', 6), ('burger', 5), ('eat', 5), ('best', 5), ('amazing', 5), ('shop', 4), (""don't"", 4), ('hamburger', 4), ('perfect', 4)]"
+1,Triple J BBQ,Food services,"[('bbq', 11), ('great', 10), ('slaw', 7), ('sauce', 6), ('sweet', 6), ('food', 5), ('stop', 5), ('pork', 5), ('j', 5), ('salad', 5), ('triple', 5), ('potato', 5), (""don't"", 4), ('friendly', 4), ('try', 4)]"
+2,Pizza and Beyond,Food services,"[('pizza', 13), ('great', 4), ('better', 3), ('nice', 3), ('new', 3), (""don't"", 2), ('location', 2), ('friendly', 2), ('good', 2), ('mom', 2), ('heaven', 2), ('night', 2), ('enjoy', 2), ('affordable', 2), ('dinner', 2)]"
+3,Rocky River Vineyards,Entertainment services,"[('wine', 31), ('tasting', 14), ('wines', 10), ('vineyard', 8), ('good', 7), ('great', 6), ('nice', 6), ('slushies', 5), ('beautiful', 5), ('visit', 5), ('course', 5), ('golf', 5), ('gold', 5), ('decided', 5), ('fun', 5)]"
+4,Mccoys Animal & Feed Supplies,Pet services,"[('dog', 4), ('food', 3), ('like', 3), ('great', 3), ('bees', 3), ('dogs', 3), ('selection', 2), (""don't"", 2), ('friendly', 2), ('bag', 2), ('directly', 2), ('toys', 2), ('store', 2), ('prices', 2), ('products', 2)]"
